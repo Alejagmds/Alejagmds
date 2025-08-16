@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 ##
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning a Master in Data Science
 - 👯 I’m looking to collaborate on basic projects
 - 🤔 I’m looking for help with understanding github
